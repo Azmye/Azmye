@@ -1,7 +1,7 @@
 <h2 align="center">
 Hi there, I'm Azmi 👋 
   
-I'm Frontend Developer
+I'm Fullstack Developer
 </h2>
 
 I love anything about technology, and I love trying new things
